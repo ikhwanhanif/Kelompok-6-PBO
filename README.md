@@ -6,8 +6,7 @@ Rayyan Ramadhan (51420067);
 Yoga Indra Pratama (51420293);
 
 Aplikasi Pemutar Music offline;
-Berbasis external Storage(Local) dengan perintah :
-                                                    uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE";
+Berbasis external Storage(Local);
 Tedapat fitur : 
                 Play;
                 Pause;
